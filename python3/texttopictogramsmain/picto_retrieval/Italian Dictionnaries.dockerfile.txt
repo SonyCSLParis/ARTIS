@@ -1,0 +1,56 @@
+Italian Dictionnaries  
+
+ 
+
+API free per (1) tradurre (2) avere definizione (3) frase dove lo usiamo  
+
+ 
+
+    Pons( https://fr.pons.com/p/dictionnaire-en-ligne/developers/api )  
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/pons/pons_api_client.py  
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/pons/pons_result.py  
+
+ 
+
+    Reverso ( https://github.com/s0ftik3/reverso-api) ma anche package in python --> vedi sotto per link 
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/reverso/reverso_api_client.py  
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/reverso/reverso_result.py  
+
+ 
+
+    Treccani (scraping)  
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/treccani/treccani_client.py  
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/treccani/treccani_html_parser_utils.py  
+
+https://github.com/apostaremczak/italian-vocabulary-builder/blob/main/vocab_builder/treccani/treccani_result.py  
+
+ 
+
+------------------------------------------------------------------------------------------------------------- 
+
+ 
+
+Code per metterle tutte insieme : https://github.com/apostaremczak/italian-vocabulary-builder/tree/main/vocab_builder + interface https://github.com/apostaremczak/italian-vocabulary-builder/tree/main  
+ 
+
+Python Packages:  
+
+    https://pypi.org/project/italian-dictionary/ basato su https://www.dizionario-italiano.it/  
+
+    https://pypi.org/project/Reverso-API/  
+
+ 
+
+API a pagamento:  
+
+    https://www.collinsdictionary.com/collins-api (bilingue dall’inglese) 
+
+    https://rapidapi.com/dpventures/api/wordsapi  
+
+Definitions, Synonyms,Rhymes ecc  

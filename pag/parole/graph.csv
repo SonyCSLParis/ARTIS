@@ -1,0 +1,6 @@
+,Weight,Source,Target
+4,2,exchange,colloquy
+3,3,discussion,exchange
+2,4,discourse,discussion
+1,5,dialogue,discourse
+0,6,conversations,dialogue
